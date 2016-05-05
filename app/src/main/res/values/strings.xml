@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lddt</string>
+    <string name="title_activity_rider_map">Map</string>
+    <string name="title_activity_rider_location">RiderLocationActivity</string>
+</resources>
